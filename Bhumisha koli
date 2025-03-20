@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultimate Travel Guide</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>🌍 Ultimate Travel Guide</h1>
+        <p>Real experiences, travel tips, cultural insights & safety advice.</p>
+    </header>
+
+    <section class="countries">
+        
+        <!-- France -->
+        <div class="country">
+            <img src="images/france.jpg" alt="France">
+            <h2>🇫🇷 France - A Romantic & Cultural Wonderland</h2>
+            <p><strong>Best Places:</strong> Eiffel Tower, Mont Saint-Michel, Loire Valley castles, French Riviera.</p>
+            <p><strong>Food & Culture:</strong> Try croissants & café au lait for breakfast. Dining is slow-paced – enjoy the experience!</p>
+            <p><strong>Safety & Budgeting:</strong> Beware of pickpockets in tourist spots. Save money using metro passes.</p>
+            <p><strong>Hidden Gem:</strong> Annecy – a stunning town with canals & mountains, often called the "Venice of France."</p>
+            <p><strong>Do’s:</strong> Greet with “Bonjour” before asking for help. Carry small change for café tips.</p>
+            <p><strong>Don’ts:</strong> Don’t expect free tap water in restaurants. Avoid talking loudly in public places.</p>
+        </div>
+
+        <hr>
+
+        <!-- Japan -->
+        <div class="country">
+            <img src="images/japan.jpg" alt="Japan">
+            <h2>🇯🇵 Japan - A Fusion of Tradition & Technology</h2>
+            <p><strong>Best Places:</strong> Tokyo (Shibuya, Akihabara), Kyoto (Golden Pavilion), Nara (Friendly Deer Park), Hiroshima.</p>
+            <p><strong>Food & Culture:</strong> Try sushi at a conveyor belt restaurant & experience a traditional tea ceremony.</p>
+            <p><strong>Safety & Budgeting:</strong> One of the safest countries! Get a Suica card for trains.</p>
+            <p><strong>Hidden Gem:</strong> Naoshima – an island full of modern art museums and surreal landscapes.</p>
+            <p><strong>Do’s:</strong> Bow slightly when greeting. Remove shoes before entering homes or temples.</p>
+            <p><strong>Don’ts:</strong> Don’t talk loudly on public transport. Never tip – it’s considered rude.</p>
+        </div>
+
+        <hr>
+
+        <!-- Italy -->
+        <div class="country">
+            <img src="images/italy.jpg" alt="Italy">
+            <h2>🇮🇹 Italy - A Paradise for Art, Food & History Lovers</h2>
+            <p><strong>Best Places:</strong> Rome (Colosseum, Vatican), Venice (Gondola rides), Amalfi Coast, Cinque Terre.</p>
+            <p><strong>Food & Culture:</strong> Try real Neapolitan pizza in Naples & fresh pasta in Florence.</p>
+            <p><strong>Safety & Budgeting:</strong> Be cautious of scammers. Many museums offer free entry on the first Sunday of the month.</p>
+            <p><strong>Hidden Gem:</strong> Alberobello – a town full of white cone-shaped houses, a UNESCO World Heritage site.</p>
+            <p><strong>Do’s:</strong> Dress well – Italians value fashion. Validate your train ticket before boarding.</p>
+            <p><strong>Don’ts:</strong> Don’t order cappuccino after 11 AM. Avoid restaurants with a "Tourist Menu."</p>
+        </div>
+
+        <hr>
+
+        <!-- Australia -->
+        <div class="country">
+            <img src="images/australia.jpg" alt="Australia">
+            <h2>🇦🇺 Australia - Nature, Adventure & Beaches</h2>
+            <p><strong>Best Places:</strong> Sydney (Opera House, Bondi Beach), Great Barrier Reef, Melbourne, Uluru.</p>
+            <p><strong>Food & Culture:</strong> Try Vegemite (it’s an acquired taste!) & have an authentic Aussie BBQ.</p>
+            <p><strong>Safety & Budgeting:</strong> The sun is very strong – always wear sunscreen! Use Opal/Myki cards for public transport.</p>
+            <p><strong>Hidden Gem:</strong> Tasmania – a nature lover’s dream with stunning landscapes & wildlife.</p>
+            <p><strong>Do’s:</strong> Always wear sunblock. Say "G’day" instead of "Hello" to sound local.</p>
+            <p><strong>Don’ts:</strong> Don’t swim in unpatrolled beaches – strong currents can be dangerous.</p>
+        </div>
+
+        <hr>
+
+        <!-- Brazil -->
+        <div class="country">
+            <img src="images/brazil.jpg" alt="Brazil">
+            <h2>🇧🇷 Brazil - Festivals, Rainforests & Vibrant Cities</h2>
+            <p><strong>Best Places:</strong> Rio de Janeiro (Christ the Redeemer, Sugarloaf Mountain), Amazon Rainforest, Iguazu Falls.</p>
+            <p><strong>Food & Culture:</strong> Enjoy açaí bowls, Brazilian BBQ (churrasco), and fresh tropical fruits.</p>
+            <p><strong>Safety & Budgeting:</strong> Avoid showing valuables in public. Use official taxis or ride-sharing apps like Uber.</p>
+            <p><strong>Hidden Gem:</strong> Lençóis Maranhenses – a desert with blue lagoons, a surreal landscape.</p>
+            <p><strong>Do’s:</strong> Learn some basic Portuguese – English is not widely spoken.</p>
+            <p><strong>Don’ts:</strong> Avoid favelas unless with a trusted local guide.</p>
+        </div>
+
+    </section>
+
+</body>
+</html>
+
